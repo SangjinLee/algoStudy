@@ -1,4 +1,4 @@
-package no1486;
+package leetcode.easy.no1486;
 
 public class XORoperationInAnArray {
     public int xorOperation(int n, int start) {
